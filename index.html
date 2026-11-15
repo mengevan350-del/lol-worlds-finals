@@ -1,0 +1,35 @@
+﻿<!DOCTYPE html>
+<html lang="zh-Hant" data-theme="light">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>英雄聯盟歷年 S 賽決賽資料庫</title>
+  <link rel="stylesheet" href="./css/style.css">
+</head>
+<body>
+  <header class="site-header">
+    <div class="container header-inner">
+      <div>
+        <h1>英雄聯盟歷年 S 賽決賽資料庫</h1>
+        <p class="subtitle">Atomic Notes 歷史賽事戰報與核心重點整理</p>
+      </div>
+      <button id="theme-toggle" class="btn-outline" aria-label="切換深淺色主題">🌓 切換主題</button>
+    </div>
+  </header>
+
+  <main class="container">
+    <nav id="filter-bar" class="filter-bar">
+      <button class="filter-btn active" data-category="all">全部賽事</button>
+    </nav>
+    <section id="card-grid" class="card-grid"></section>
+    <article id="note-viewer" class="note-viewer hidden">
+      <button id="back-btn" class="btn-outline">← 返回決賽列表</button>
+      <div id="note-meta" class="note-meta"></div>
+      <div id="note-content" class="markdown-body"></div>
+    </article>
+  </main>
+
+  <script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
+  <script src="./js/app.js"></script>
+</body>
+</html>

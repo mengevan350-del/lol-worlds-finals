@@ -1,10 +1,7 @@
-﻿---
-title: S4 世界大賽決賽：Samsung White vs Star Horn Royal Club
-date: 2014-10-19
-category: 韓援宰制
-tags: [SSW, SHRC, S4]
-summary: Samsung White 以 3:1 擊敗皇族，展現近乎完美的視野控制與營運壓制。
----
-> **主題摘要**：2014 年 S4 全球總決賽，Samsung White (SSW) 以 3:1 擊敗 Star Horn Royal Club (SHR) 奪冠。
-* **對戰雙方**：Samsung White (SSW) vs Star Horn Royal Club (SHR)
-* **最終比分**：3 - 1
+## 賽事背景
+S4 決賽在韓國首爾舉行。Samsung White（SSW）展現碾壓級實力，決賽面對中國的 Star Horn Royal Club。
+## 關鍵對決與結果
+*   **最終比分**：SSW 3 : 1 SHRC
+*   **經典看點**：輔助 Mata 將「視野控制」提升到藝術境界，搭配 Dandy 野區入侵，讓對手窒息而亡。Imp 的圖奇也發揮極佳。
+## 歷史意義
+*   被公認史上最具統治力的隊伍之一。賽後三星十人全數前往 LPL，開啟韓援時代。

@@ -1,10 +1,9 @@
-﻿---
-title: S1 世界大賽決賽：Fnatic vs aAa
-date: 2011-06-20
-category: 早期賽事
-tags: [Fnatic, aAa, S1]
-summary: S1 決賽，Fnatic 以 2:1 擊敗 aAa 取得首屆世界冠軍。
----
-> **主題摘要**：2011 年 S1 全球總決賽，Fnatic (FNC) 以 2:1 擊敗 Against All Authority (aAa) 奪得首屆世界冠軍。
-* **對戰雙方**：Fnatic (FNC) vs Against All Authority (aAa)
-* **最終比分**：2 - 1
+﻿## 賽事背景
+2011 年首屆世界大賽在瑞典 DreamHack 舉行。決賽由兩支歐洲隊伍 Fnatic (FNC) 與 Against All Authority (aAa) 展開內戰。
+
+## 關鍵對決與結果
+*   **最終比分**：Fnatic 2 : 1 aAa
+*   **經典看點**：FNC 中單 xPeke 展現強大對線能力，打野 LamiaZealot 帶動節奏。第三局穩扎穩打成功關門。
+
+## 歷史意義
+*   Fnatic 成為英雄聯盟史上第一支世界冠軍隊伍。

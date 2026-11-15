@@ -1,5 +1,10 @@
-## 賽事背景
-2011 年首屆世界大賽在瑞典 DreamHack 舉行。決賽由兩支歐洲隊伍 Fnatic (FNC) 與 Against All Authority (aAa) 展開內戰。
+> <img src="https://upload.wikimedia.org/wikipedia/en/thumb/a/a9/Fnatic_logo.svg/120px-Fnatic_logo.svg.png" height="30" style="vertical-align: middle;" /> 🏆 **【夢開始的地方】網咖裡的世界冠軍！Fnatic 拿下史上首座召喚師獎盃！**
+
+> ⚡ **賽事速報**：2011年6月18日-20日 | 瑞典·延雪平 | DreamHack 展會現場（Elmia）
+
+## 📰 賽事頭條
+
+沒有體育館，沒有聚光燈，只有延雪平一間嘈雜的展館。但正是這裡，誕生了英雄聯盟歷史上第一個世界冠軍。
 
 ## 比賽結構圖解
 <div class="concept-diagram">
@@ -16,7 +21,8 @@
   </svg>
 </div>
 
-## 經典看點與歷史意義
-*   **經典看點**：FNC 中單 xPeke 展現強大對線能力，打野 LamiaZealot 帶動節奏。第三局穩扎穩打成功關門。
-*   **歷史意義**：Fnatic 成為英雄聯盟史上第一支世界冠軍隊伍。
-*   
+## 💥 勁爆看點
+*   **上古法王**：xPeke 用無解對線告訴全世界，中路可以一個人接管比賽。
+*   **歷史定格**：沒有這群歐洲「遠古神獸」，就沒有後來的 S 賽。**Fnatic 的名字，永遠刻在了第一座獎盃上。**
+
+> 🎙️ *「我們當時只是覺得，能打世界賽就很酷了。」*

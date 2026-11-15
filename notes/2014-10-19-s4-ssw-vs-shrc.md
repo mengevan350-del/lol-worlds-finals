@@ -1,5 +1,10 @@
-## 賽事背景
-S4 決賽在韓國首爾舉行。Samsung White（SSW）展現碾壓級實力，決賽面對中國的 Star Horn Royal Club。
+> <img src="https://upload.wikimedia.org/wikipedia/en/thumb/c/cc/Samsung_White_logo.png/120px-Samsung_White_logo.png" height="30" style="vertical-align: middle;" /> 🏆 **【恐怖統治】星不散，永奪冠！三星白把視野玩成了藝術！**
+
+> ⚡ **賽事速報**：2014年10月19日 | 韓國·首爾 | 上岩世界盃體育場（Seoul World Cup Stadium）
+
+## 📰 賽事頭條
+
+首爾世界盃體育場，五萬多人見證了英雄聯盟歷史上最具統治力的一支隊伍。Samsung White 不是在打比賽，是在**降維打擊**。
 
 ## 比賽結構圖解
 <div class="concept-diagram">
@@ -16,6 +21,8 @@ S4 決賽在韓國首爾舉行。Samsung White（SSW）展現碾壓級實力，�
   </svg>
 </div>
 
-## 經典看點與歷史意義
-*   **經典看點**：輔助 Mata 將「視野控制」提升到藝術境界，搭配 Dandy 野區入侵，讓對手窒息而亡。Imp 的圖奇也發揮極佳。
-*   **歷史意義**：被公認史上最具統治力的隊伍之一。賽後三星十人全數前往 LPL，開啟韓援時代。
+## 💥 勁爆看點
+*   **Mata 上帝之眼**：輔助 Mata 的視野控制直接把地圖點亮，對手連草叢都不敢進。
+*   **韓援時代開啟**：打不過就買過來。賽後三星十人全數被 LPL 重金挖走，徹底改寫了世界賽格局。
+
+> 🎙️ *「星不散，永奪冠！」*

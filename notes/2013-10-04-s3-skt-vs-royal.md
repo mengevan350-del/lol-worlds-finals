@@ -1,5 +1,10 @@
-## 賽事背景
-S3 決賽於洛杉磯舉行。年僅 17 歲的 Faker 帶著不敗傳奇，對決中國皇族戰隊。
+> <img src="https://upload.wikimedia.org/wikipedia/en/thumb/5/58/SK_Telecom_T1_logo.png/120px-SK_Telecom_T1_logo.png" height="30" style="vertical-align: middle;" /> 🏆 **【大魔王降臨】17 歲少年震驚世界！SKT 橫掃皇族，王朝從今夜開始！**
+
+> ⚡ **賽事速報**：2013年10月4日-5日（北京時間） | 美國·洛杉磯 | 斯台普斯中心（Staples Center）
+
+## 📰 賽事頭條
+
+洛杉磯斯台普斯中心，一個 ID 叫 Faker 的少年用劫在塔下殘血反殺，全世界解說同時喊出了同一個詞：**God**。
 
 ## 比賽結構圖解
 <div class="concept-diagram">
@@ -16,10 +21,8 @@ S3 決賽於洛杉磯舉行。年僅 17 歲的 Faker 帶著不敗傳奇，對決
   </svg>
 </div>
 
-## 經典看點與歷史意義
-*   **經典看點**：Faker 多次上演單殺與極限反殺。最著名的是選出「劫」對抗 Whitezz 的「卡薩丁」，塔下殘血極限反殺。Bengi 的野區保護也讓 Faker 無後顧之憂。
-*   **歷史意義**：SKT 王朝的起點，韓國賽區開啟長達數年的統治地位。
+## 💥 勁爆看點
+*   **火影劫**：塔下殘血反殺 Whitezz 卡薩丁，那一幕至今仍是 S 賽最經典的鏡頭之一。
+*   **韓國統治開幕**：從這一夜起，韓國賽區對英雄聯盟的統治持續了整整五年。
 
-## 2. 原始資料摘錄與引用
-
-* 2013 年 S3 全球總決賽：SK Telecom T1 (SKT) 3-0 擊敗 Royal Club (RYL)。
+> 🎙️ *「Faker is a god！」——現場解說*

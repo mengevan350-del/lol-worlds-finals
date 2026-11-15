@@ -1,10 +1,7 @@
-﻿---
-title: S2 世界大賽決賽：TPA vs Azubu Frost
-date: 2012-10-13
-category: 早期賽事
-tags: [TPA, Azubu Frost, S2, 台港澳榮光]
-summary: 台北暗殺星 (TPA) 異軍突起，以 3:1 擊敗強敵 Azubu Frost 奪下 S2 冠軍。
----
-> **主題摘要**：2012 年 S2 全球總決賽，Taipei Assassins (TPA) 以 3:1 擊敗 Azubu Frost (AZF) 奪冠。
-* **對戰雙方**：Taipei Assassins (TPA) vs Azubu Frost (AZF)
-* **最終比分**：3 - 1
+## 賽事背景
+S2 決賽在美國洛杉磯舉辦。來自台港澳賽區（GPL）的台北暗殺星（TPA）以黑馬之姿殺入決賽，對陣韓國強權 Azubu Frost。當時韓國賽區的營運實力已初露鋒芒。
+
+## 關鍵對決與結果
+*   **最終比分**：TPA 3 : 1 Azubu Frost
+*   **經典看點**：Toyz 的中路極具壓制力（冰鳥、球女），搭配 Stanley 在上路的無解分推（奈德麗），以及 Lilballz 的史丹利連動。TPA 成功打破了韓國隊伍的營運節奏，以快打旋風般的進攻拿下勝利。決賽中 Toyz 的冰鳥更是打出統治級表現。
+*   **歷史意義**：這是台港澳賽區至今唯一一座 S 賽冠軍，極大地振奮了非韓賽區。

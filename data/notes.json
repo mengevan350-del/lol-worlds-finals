@@ -1,130 +1,18 @@
 ﻿[
-  {
-    "title": "S1 世界大賽決賽：Fnatic vs aAa",
-    "date": "2011-06-20",
-    "category": "早期賽事",
-    "tags": ["Fnatic", "aAa", "S1"],
-    "summary": "S1 決賽，Fnatic 以 2:1 擊敗 aAa 取得首屆世界冠軍。",
-    "filename": "2011-06-20-s1-fnatic-vs-aaa.md"
-  },
-  {
-    "title": "S2 世界大賽決賽：TPA vs Azubu Frost",
-    "date": "2012-10-13",
-    "category": "早期賽事",
-    "tags": ["TPA", "Azubu Frost", "S2", "台港澳榮光"],
-    "summary": "台北暗殺星 (TPA) 異軍突起，以 3:1 擊敗強敵 Azubu Frost 奪下 S2 冠軍。",
-    "filename": "2012-10-13-s2-tpa-vs-azubu.md"
-  },
-  {
-    "title": "S3 世界大賽決賽：SKT T1 vs Royal Club（詳細）",
-    "date": "2013-10-04",
-    "category": "T1 奪冠王朝",
-    "tags": ["SKT", "Royal Club", "Faker", "S3", "詳細"],
-    "summary": "Faker 率領 SKT T1 以 3:0 橫掃皇族，開啟了屬於 SKT 的第一個世界冠軍王朝。",
-    "filename": "2013-10-04-s3-skt-vs-royal.md"
-  },
-  {
-    "title": "S4 世界大賽決賽：Samsung White vs Star Horn Royal Club",
-    "date": "2014-10-19",
-    "category": "韓援宰制",
-    "tags": ["SSW", "SHRC", "S4"],
-    "summary": "Samsung White 以 3:1 擊敗皇族，展現近乎完美的視野控制與營運壓制。",
-    "filename": "2014-10-19-s4-ssw-vs-shrc.md"
-  },
-  {
-    "title": "S5 世界大賽決賽：SKT T1 vs KOO Tigers（詳細）",
-    "date": "2015-10-31",
-    "category": "T1 奪冠王朝",
-    "tags": ["SKT", "KOO Tigers", "Faker", "MaRin", "S5", "詳細"],
-    "summary": "SKT 展現絕對統治力，以 3:1 擊敗同區勁敵 KOO Tigers，奪下隊史第二冠。",
-    "filename": "2015-10-31-s5-skt-vs-koo.md"
-  },
-  {
-    "title": "S6 世界大賽決賽：SKT T1 vs Samsung Galaxy（詳細）",
-    "date": "2016-10-29",
-    "category": "T1 奪冠王朝",
-    "tags": ["SKT", "SSG", "Faker", "Bengi", "S6", "詳細"],
-    "summary": "史詩級的五局大戰，SKT 以 3:2 險勝頑強抵抗的 SSG，完成世界賽二連霸壯舉。",
-    "filename": "2016-10-29-s6-skt-vs-ssg.md"
-  },
-  {
-    "title": "S7 世界大賽決賽：Samsung Galaxy vs SKT T1",
-    "date": "2017-11-04",
-    "category": "世代交替",
-    "tags": ["SSG", "SKT", "S7"],
-    "summary": "SSG 以 3:0 復仇成功擊敗 SKT，終結 SKT 的三連霸美夢。",
-    "filename": "2017-11-04-s7-ssg-vs-skt.md"
-  },
-  {
-    "title": "S8 世界大賽決賽：Invictus Gaming vs Fnatic",
-    "date": "2018-11-03",
-    "category": "LPL 突破",
-    "tags": ["IG", "Fnatic", "S8"],
-    "summary": "IG 以 3:0 橫掃 Fnatic，為 LPL 賽區奪下歷史首座 S 賽冠軍。",
-    "filename": "2018-11-03-s8-ig-vs-fnatic.md"
-  },
-  {
-    "title": "S9 世界大賽決賽：FunPlus Phoenix vs G2 Esports",
-    "date": "2019-11-10",
-    "category": "快節奏營運",
-    "tags": ["FPX", "G2", "S9"],
-    "summary": "FPX 以 3:0 擊敗歐洲希望 G2 奪冠，展現高強度中野連動。",
-    "filename": "2019-11-10-s9-fpx-vs-g2.md"
-  },
-  {
-    "title": "S10 世界大賽決賽：DAMWON Gaming vs Suning",
-    "date": "2020-10-31",
-    "category": "新王登基",
-    "tags": ["DWG", "Suning", "S10"],
-    "summary": "DWG 展現強大宰制力，以 3:1 擊敗蘇寧奪下 S10 總冠軍。",
-    "filename": "2020-10-31-s10-dwg-vs-suning.md"
-  },
-  {
-    "title": "S11 世界大賽決賽：EDward Gaming vs DWG KIA",
-    "date": "2021-11-06",
-    "category": "滿血硬仗",
-    "tags": ["EDG", "DK", "S11"],
-    "summary": "EDG 在不被看好的情況下鏖戰五局，最終以 3:2 擊敗衛冕軍 DK 捧盃。",
-    "filename": "2021-11-06-s11-edg-vs-dk.md"
-  },
-  {
-    "title": "S12 世界大賽決賽：DRX vs T1",
-    "date": "2022-11-05",
-    "category": "黑馬奇蹟",
-    "tags": ["DRX", "T1", "Deft", "S12"],
-    "summary": "DRX 從入圍賽一路逆襲，在決賽以 3:2 擊敗 T1 完成最後一舞傳奇劇本。",
-    "filename": "2022-11-05-s12-drx-vs-t1.md"
-  },
-  {
-    "title": "S13 世界大賽決賽：T1 vs Weibo Gaming（詳細）",
-    "date": "2023-11-19",
-    "category": "T1 奪冠王朝",
-    "tags": ["T1", "WBG", "Faker", "Zeus", "S13", "詳細"],
-    "summary": "T1 以 3:0 擊敗 WBG，由 Zeus 奪得 FMVP，助 T1 重返榮耀奪第四冠。",
-    "filename": "2023-11-19-s13-t1-vs-wbg.md"
-  },
-  {
-    "title": "S14 世界大賽決賽：T1 vs Bilibili Gaming（詳細）",
-    "date": "2024-11-02",
-    "category": "T1 奪冠王朝",
-    "tags": ["T1", "BLG", "Faker", "S14", "詳細"],
-    "summary": "T1 血戰五局以 3:2 力退 BLG 成功衛冕，Faker 奪下生涯第五冠。",
-    "filename": "2024-11-02-s14-t1-vs-blg.md"
-  },
-  {
-    "title": "S15 世界大賽決賽：T1 vs KT Rolster（詳細）",
-    "date": "2025-11-09",
-    "category": "T1 奪冠王朝",
-    "tags": ["T1", "KT", "Faker", "Gumayusi", "S15", "三連冠", "詳細"],
-    "summary": "成都東安湖體育公園打滿五局，T1 以 3:2 擊敗 KT 達成史無前例三連冠，Faker 奪第六冠。",
-    "filename": "2025-11-09-s15-t1-vs-kt.md"
-  },
-  {
-    "title": "S16 世界大賽決賽：Bilibili Gaming vs Gen.G",
-    "date": "2026-11-14",
-    "category": "新王登基",
-    "tags": ["BLG", "Gen.G", "knight", "Bin", "S16"],
-    "summary": "紐約巴克萊中心決賽，BLG 先輸一局後連扳三局以 3:1 逆轉 Gen.G 奪隊史首冠，knight 獲 FMVP。",
-    "filename": "2026-11-14-s16-blg-vs-geng.md"
-  }
+  {"title":"S1 世界大賽決賽：Fnatic vs aAa","date":"2011-06-18","category":"早期賽事","tags":["Fnatic","aAa"],"summary":"Fnatic 擊敗 aAa 取得首屆世界冠軍。","filename":"2011-06-18-s1-fnatic-vs-aaa.md"},
+  {"title":"S2 世界大賽決賽：TPA vs Azubu Frost","date":"2012-10-13","category":"早期賽事","tags":["TPA"],"summary":"台北暗殺星以黑馬之姿奪下 S2 冠軍。","filename":"2012-10-13-s2-tpa-vs-azubu.md"},
+  {"title":"S3 世界大賽決賽：SKT T1 vs Royal Club","date":"2013-10-04","category":"T1 奪冠王朝","tags":["SKT","Faker"],"summary":"Faker 率 SKT 橫掃皇族，開啟王朝。","filename":"2013-10-04-s3-skt-vs-royal.md"},
+  {"title":"S4 世界大賽決賽：Samsung White vs SHRC","date":"2014-10-19","category":"韓援宰制","tags":["SSW"],"summary":"SSW 以完美的視野與營運壓制皇族奪冠。","filename":"2014-10-19-s4-ssw-vs-shrc.md"},
+  {"title":"S5 世界大賽決賽：SKT T1 vs KOO Tigers","date":"2015-10-31","category":"T1 奪冠王朝","tags":["SKT","MaRin"],"summary":"SKT 展現統治力擊敗 KOO，奪下第二冠。","filename":"2015-10-31-s5-skt-vs-koo.md"},
+  {"title":"S6 世界大賽決賽：SKT T1 vs Samsung Galaxy","date":"2016-10-29","category":"T1 奪冠王朝","tags":["SKT","Faker"],"summary":"史詩五局大戰，SKT 險勝 SSG 二連霸。","filename":"2016-10-29-s6-skt-vs-ssg.md"},
+  {"title":"S7 世界大賽決賽：Samsung Galaxy vs SKT T1","date":"2017-11-04","category":"世代交替","tags":["SSG"],"summary":"SSG 3:0 復仇成功，終結 SKT 三連霸。","filename":"2017-11-04-s7-ssg-vs-skt.md"},
+  {"title":"S8 世界大賽決賽：Invictus Gaming vs Fnatic","date":"2018-11-03","category":"LPL 突破","tags":["IG"],"summary":"IG 橫掃 Fnatic，為 LPL 奪下歷史首冠。","filename":"2018-11-03-s8-ig-vs-fnatic.md"},
+  {"title":"S9 世界大賽決賽：FunPlus Phoenix vs G2","date":"2019-11-10","category":"快節奏營運","tags":["FPX"],"summary":"FPX 中野遊走奏效，擊敗 G2 奪冠。","filename":"2019-11-10-s9-fpx-vs-g2.md"},
+  {"title":"S10 世界大賽決賽：DAMWON vs Suning","date":"2020-10-31","category":"新王登基","tags":["DWG"],"summary":"DWG 展現強大宰制力，擊敗蘇寧奪冠。","filename":"2020-10-31-s10-dwg-vs-suning.md"},
+  {"title":"S11 世界大賽決賽：EDG vs DWG KIA","date":"2021-11-06","category":"滿血硬仗","tags":["EDG"],"summary":"EDG 鏖戰五局，擊敗衛冕軍 DK 捧盃。","filename":"2021-11-06-s11-edg-vs-dk.md"},
+  {"title":"S12 世界大賽決賽：DRX vs T1","date":"2022-11-05","category":"黑馬奇蹟","tags":["DRX","Deft"],"summary":"DRX 從入圍賽逆襲，決賽擊敗 T1 創傳奇。","filename":"2022-11-05-s12-drx-vs-t1.md"},
+  {"title":"S13 世界大賽決賽：T1 vs Weibo Gaming","date":"2023-11-19","category":"T1 奪冠王朝","tags":["T1","Zeus"],"summary":"T1 一穿四 LPL，Zeus 奪 FMVP 重返榮耀。","filename":"2023-11-19-s13-t1-vs-wbg.md"},
+  {"title":"S14 世界大賽決賽：T1 vs Bilibili Gaming","date":"2024-11-02","category":"T1 奪冠王朝","tags":["T1","Faker"],"summary":"T1 血戰五局力退 BLG，Faker 奪第五冠。","filename":"2024-11-02-s14-t1-vs-blg.md"},
+  {"title":"S15 世界大賽決賽：T1 vs KT Rolster","date":"2025-11-09","category":"近代賽事","tags":["T1","Faker"],"summary":"T1 打滿五局擊敗 KT 達成三連冠，Faker 第六冠。","filename":"2025-11-09-s15-t1-vs-kt.md"},
+  {"title":"S16 世界大賽決賽：BLG vs Gen.G","date":"2026-11-14","category":"近代賽事","tags":["BLG","knight"],"summary":"BLG 連扳三局 3:1 擊敗 Gen.G 奪隊史首冠。","filename":"2026-11-14-s16-blg-vs-geng.md"}
 ]

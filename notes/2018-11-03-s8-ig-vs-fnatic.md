@@ -1,5 +1,10 @@
-## 賽事背景
-S8 決賽於韓國仁川舉行。LPL 的 IG 以極具觀賞性的「莽夫」打法一路過關斬將，對陣 Fnatic。
+> <img src="https://upload.wikimedia.org/wikipedia/en/thumb/7/7e/Invictus_Gaming_logo.png/120px-Invictus_Gaming_logo.png" height="30" style="vertical-align: middle;" /> 🏆 **【天神下凡】TheShy 一打五！IG 血洗 FNC，LPL 首冠到手！**
+
+> ⚡ **賽事速報**：2018年11月3日 | 韓國·仁川 | 文鶴競技場（Incheon Munhak Stadium）
+
+## 📰 賽事頭條
+
+仁川的夜空被 IG 的黑色戰袍點燃。這群不講理的「莽夫」用極致的個人操作，把歐洲霸主 FNC 打得毫無還手之力。
 
 ## 比賽結構圖解
 <div class="concept-diagram">
@@ -16,6 +21,8 @@ S8 決賽於韓國仁川舉行。LPL 的 IG 以極具觀賞性的「莽夫」打
   </svg>
 </div>
 
-## 經典看點與歷史意義
-*   **經典看點**：TheShy 與 Rookie 個人能力完全壓制。TheShy 的達瑞斯、菲歐拉與厄薩斯如同天神下凡，Ning 果斷開團拿下 FMVP。
-*   **歷史意義**：IG 為 LPL 奪得歷史首座 S 賽冠軍，打破韓國長達五年的統治。
+## 💥 勁爆看點
+*   **天神下凡**：TheShy 的厄薩斯在團戰中如同戰神，一錘四的畫面讓全世界解說同時失聲尖叫。
+*   **LPL 首冠**：苦等八年，LPL 終於拿下第一座 S 賽冠軍。**韓國長達五年的統治，正式宣告終結。**
+
+> 🎙️ *「IG 永不加班！我們是冠軍！」*

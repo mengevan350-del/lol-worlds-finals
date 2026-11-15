@@ -1,5 +1,10 @@
-## 賽事背景
-S10 決賽在上海舉行。DWG 以 LCK 第一種子出戰，展現恐怖宰制力，對陣 LPL 黑馬 Suning。
+> <img src="https://upload.wikimedia.org/wikipedia/en/thumb/0/0f/DAMWON_Gaming_logo.png/120px-DAMWON_Gaming_logo.png" height="30" style="vertical-align: middle;" /> 🏆 **【重鑄榮光】DWG 絕對宰制！LCK 霸權強勢回歸！**
+
+> ⚡ **賽事速報**：2020年10月31日 | 中國·上海 | 浦東足球場（Pudong Football Stadium）
+
+## 📰 賽事頭條
+
+上海浦東足球場，DWG 用令人窒息的營運告訴全世界：**LCK 回來了。** 面對 LPL 黑馬蘇寧，他們沒有給對手留任何幻想。
 
 ## 比賽結構圖解
 <div class="concept-diagram">
@@ -16,6 +21,8 @@ S10 決賽在上海舉行。DWG 以 LCK 第一種子出戰，展現恐怖宰制�
   </svg>
 </div>
 
-## 經典看點與歷史意義
-*   **經典看點**：DWG 的野輔連動（Canyon 與 BeryL）引領版本，Canyon 完全掌控野區。雖然 SN 的 Bin 有過「葛雷夫五殺」亮眼表現，但整體營運仍不敵 DWG。
-*   **歷史意義**：DWG 奪隊史首冠，幫助 LCK 奪回睽違兩年的獎盃。
+## 💥 勁爆看點
+*   **野區怪物**：Canyon 完全統治野區，葛雷夫和奈德麗直接把蘇寧的防線撕裂。
+*   **五殺劍客**：雖然蘇寧輸了，但 Bin 的葛雷夫拿下 S 賽決賽史上首個五殺。**熱血沸騰。**
+
+> 🎙️ *「重鑄 LCK 榮光，我輩義不容辭！」——ShowMaker*

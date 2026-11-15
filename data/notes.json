@@ -1,18 +1,18 @@
 ﻿[
   {
     "title": "S1 世界大賽決賽：Fnatic vs aAa",
-    "date": "2011-06-18",
+    "date": "2011-06-20",
     "category": "早期賽事",
     "tags": ["Fnatic", "aAa", "S1"],
-    "summary": "S1 決賽，Fnatic 擊敗 aAa 取得首屆世界冠軍。",
-    "filename": "2011-06-18-s1-fnatic-vs-aaa.md"
+    "summary": "S1 決賽，Fnatic 以 2:1 擊敗 aAa 取得首屆世界冠軍。",
+    "filename": "2011-06-20-s1-fnatic-vs-aaa.md"
   },
   {
     "title": "S2 世界大賽決賽：TPA vs Azubu Frost",
     "date": "2012-10-13",
     "category": "早期賽事",
     "tags": ["TPA", "Azubu Frost", "S2", "台港澳榮光"],
-    "summary": "台北暗殺星 (TPA) 異軍突起，以驚奇表現擊敗強敵 Azubu Frost 奪下 S2 冠軍。",
+    "summary": "台北暗殺星 (TPA) 異軍突起，以 3:1 擊敗強敵 Azubu Frost 奪下 S2 冠軍。",
     "filename": "2012-10-13-s2-tpa-vs-azubu.md"
   },
   {
@@ -20,7 +20,7 @@
     "date": "2013-10-04",
     "category": "T1 奪冠王朝",
     "tags": ["SKT", "Royal Club", "Faker", "S3", "詳細"],
-    "summary": "Faker 率領 SKT T1 橫掃皇族，開啟了屬於 SKT 的第一個世界冠軍王朝。",
+    "summary": "Faker 率領 SKT T1 以 3:0 橫掃皇族，開啟了屬於 SKT 的第一個世界冠軍王朝。",
     "filename": "2013-10-04-s3-skt-vs-royal.md"
   },
   {
@@ -28,7 +28,7 @@
     "date": "2014-10-19",
     "category": "韓援宰制",
     "tags": ["SSW", "SHRC", "S4"],
-    "summary": "Samsung White 以近乎完美的視野控制與營運壓制皇族奪冠。",
+    "summary": "Samsung White 以 3:1 擊敗皇族，展現近乎完美的視野控制與營運壓制。",
     "filename": "2014-10-19-s4-ssw-vs-shrc.md"
   },
   {
@@ -44,7 +44,7 @@
     "date": "2016-10-29",
     "category": "T1 奪冠王朝",
     "tags": ["SKT", "SSG", "Faker", "Bengi", "S6", "詳細"],
-    "summary": "史詩級的五局大戰，SKT 險勝頑強抵抗的 SSG，完成世界賽二連霸壯舉。",
+    "summary": "史詩級的五局大戰，SKT 以 3:2 險勝頑強抵抗的 SSG，完成世界賽二連霸壯舉。",
     "filename": "2016-10-29-s6-skt-vs-ssg.md"
   },
   {
@@ -60,7 +60,7 @@
     "date": "2018-11-03",
     "category": "LPL 突破",
     "tags": ["IG", "Fnatic", "S8"],
-    "summary": "IG 以強悍的對線實力橫掃 Fnatic，為 LPL 賽區奪下歷史首座 S 賽冠軍。",
+    "summary": "IG 以 3:0 橫掃 Fnatic，為 LPL 賽區奪下歷史首座 S 賽冠軍。",
     "filename": "2018-11-03-s8-ig-vs-fnatic.md"
   },
   {
@@ -68,23 +68,23 @@
     "date": "2019-11-10",
     "category": "快節奏營運",
     "tags": ["FPX", "G2", "S9"],
-    "summary": "FPX 透過中野連動的高強度遊走，擊敗歐洲希望 G2 奪冠。",
+    "summary": "FPX 以 3:0 擊敗歐洲希望 G2 奪冠，展現高強度中野連動。",
     "filename": "2019-11-10-s9-fpx-vs-g2.md"
   },
   {
     "title": "S10 世界大賽決賽：DAMWON Gaming vs Suning",
     "date": "2020-10-31",
     "category": "新王登基",
-    "tags": ["DK", "Suning", "S10"],
-    "summary": "DWG 展現強大宰制力，擊敗蘇寧奪下 S10 總冠軍。",
+    "tags": ["DWG", "Suning", "S10"],
+    "summary": "DWG 展現強大宰制力，以 3:1 擊敗蘇寧奪下 S10 總冠軍。",
     "filename": "2020-10-31-s10-dwg-vs-suning.md"
   },
   {
-    "title": "S11 世界大賽決賽：Edward Gaming vs DWG KIA",
+    "title": "S11 世界大賽決賽：EDward Gaming vs DWG KIA",
     "date": "2021-11-06",
     "category": "滿血硬仗",
     "tags": ["EDG", "DK", "S11"],
-    "summary": "EDG 在不被看好的情況下鏖戰五局，最終擊敗衛冕軍 DK 捧盃。",
+    "summary": "EDG 在不被看好的情況下鏖戰五局，最終以 3:2 擊敗衛冕軍 DK 捧盃。",
     "filename": "2021-11-06-s11-edg-vs-dk.md"
   },
   {
@@ -92,7 +92,7 @@
     "date": "2022-11-05",
     "category": "黑馬奇蹟",
     "tags": ["DRX", "T1", "Deft", "S12"],
-    "summary": "DRX 從外卡資格賽一路逆襲，在決賽擊敗 T1 完成「最後一舞」的傳奇劇本。",
+    "summary": "DRX 從入圍賽一路逆襲，在決賽以 3:2 擊敗 T1 完成最後一舞傳奇劇本。",
     "filename": "2022-11-05-s12-drx-vs-t1.md"
   },
   {
@@ -100,7 +100,7 @@
     "date": "2023-11-19",
     "category": "T1 奪冠王朝",
     "tags": ["T1", "WBG", "Faker", "Zeus", "S13", "詳細"],
-    "summary": "T1 展現一打四 LPL 戰區的強勢姿態，由 Zeus 奪得 FMVP，助 T1 重返榮耀。",
+    "summary": "T1 以 3:0 擊敗 WBG，由 Zeus 奪得 FMVP，助 T1 重返榮耀奪第四冠。",
     "filename": "2023-11-19-s13-t1-vs-wbg.md"
   },
   {
@@ -108,23 +108,23 @@
     "date": "2024-11-02",
     "category": "T1 奪冠王朝",
     "tags": ["T1", "BLG", "Faker", "S14", "詳細"],
-    "summary": "T1 再次展現世界賽神祕加護，血戰五局力退 BLG，Faker 奪下生涯第五冠。",
+    "summary": "T1 血戰五局以 3:2 力退 BLG 成功衛冕，Faker 奪下生涯第五冠。",
     "filename": "2024-11-02-s14-t1-vs-blg.md"
   },
   {
-    "title": "S15 世界大賽決賽（簡要紀綠）",
-    "date": "2025-11-XX",
-    "category": "近代賽事",
-    "tags": ["S15", "待補充"],
-    "summary": "S15 世界大賽決賽紀錄，待完整戰報資料輸入後更新詳細內容。",
-    "filename": "2025-11-xx-s15-worlds.md"
+    "title": "S15 世界大賽決賽：T1 vs KT Rolster（詳細）",
+    "date": "2025-11-09",
+    "category": "T1 奪冠王朝",
+    "tags": ["T1", "KT", "Faker", "Gumayusi", "S15", "三連冠", "詳細"],
+    "summary": "成都東安湖體育公園打滿五局，T1 以 3:2 擊敗 KT 達成史無前例三連冠，Faker 奪第六冠。",
+    "filename": "2025-11-09-s15-t1-vs-kt.md"
   },
   {
-    "title": "S16 世界大賽決賽（簡要紀綠）",
-    "date": "2026-11-XX",
-    "category": "近代賽事",
-    "tags": ["S16", "待補充"],
-    "summary": "S16 世界大賽決賽紀錄，待完整戰報資料輸入後更新詳細內容。",
-    "filename": "2026-11-xx-s16-worlds.md"
+    "title": "S16 世界大賽決賽：Bilibili Gaming vs Gen.G",
+    "date": "2026-11-14",
+    "category": "新王登基",
+    "tags": ["BLG", "Gen.G", "knight", "Bin", "S16"],
+    "summary": "紐約巴克萊中心決賽，BLG 先輸一局後連扳三局以 3:1 逆轉 Gen.G 奪隊史首冠，knight 獲 FMVP。",
+    "filename": "2026-11-14-s16-blg-vs-geng.md"
   }
 ]

@@ -1,33 +1,24 @@
-﻿---
-title: S3 世界大賽決賽：SKT T1 vs Royal Club（詳細）
-date: 2013-10-04
-category: T1 奪冠王朝
-tags: [SKT, Royal Club, Faker, S3, 詳細]
-summary: Faker 率領 SKT T1 以 3:0 橫掃皇族，開啟了屬於 SKT 的第一個世界冠軍王朝。
----
+## 賽事背景
+S3 決賽於洛杉磯舉行。年僅 17 歲的 Faker 帶著不敗傳奇，對決中國皇族戰隊。
 
-> **主題摘要**  
-> 2013 年英雄聯盟 S3 世界大賽總決賽，SK Telecom T1 (SKT) 以 3:0 橫掃 Royal Club (RYL)，正式開啟 SKT 與 Faker 的傳奇王朝序幕。
-
-## 1. 核心重點整理
-
-* **對戰雙方**：SK Telecom T1 (SKT) vs Royal Club (RYL)
-* **最終比分**：SKT 3 : 0 橫掃奪冠
-* **核心意義**：Faker 出道首年即登頂世界之巔，奠定中路大魔王地位。
-
+## 比賽結構圖解
 <div class="concept-diagram">
-  <div class="concept-diagram-title">S3 決賽對戰結構圖解</div>
+  <div class="concept-diagram-title">S3 決賽對戰結構</div>
   <svg width="100%" height="110" viewBox="0 0 520 110" xmlns="http://www.w3.org/2000/svg">
     <rect x="20" y="25" width="130" height="55" rx="10" fill="none" stroke="currentColor" stroke-width="1.5"/>
-    <text x="85" y="57" font-size="14" fill="currentColor" text-anchor="middle">SKT T1 (冠)</text>
+    <text x="85" y="57" font-size="14" fill="currentColor" text-anchor="middle">SKT（勝）</text>
     <line x1="150" y1="52" x2="210" y2="52" stroke="currentColor" stroke-width="1.5"/>
     <rect x="210" y="25" width="100" height="55" rx="10" fill="none" stroke="currentColor" stroke-width="1.5"/>
     <text x="260" y="57" font-size="13" fill="currentColor" text-anchor="middle">3 : 0</text>
     <line x1="310" y1="52" x2="370" y2="52" stroke="currentColor" stroke-width="1.5"/>
     <rect x="370" y="25" width="130" height="55" rx="10" fill="none" stroke="currentColor" stroke-width="1.5"/>
-    <text x="435" y="57" font-size="14" fill="currentColor" text-anchor="middle">Royal Club (亞)</text>
+    <text x="435" y="57" font-size="14" fill="currentColor" text-anchor="middle">RYL（亞）</text>
   </svg>
 </div>
+
+## 經典看點與歷史意義
+*   **經典看點**：Faker 多次上演單殺與極限反殺。最著名的是選出「劫」對抗 Whitezz 的「卡薩丁」，塔下殘血極限反殺。Bengi 的野區保護也讓 Faker 無後顧之憂。
+*   **歷史意義**：SKT 王朝的起點，韓國賽區開啟長達數年的統治地位。
 
 ## 2. 原始資料摘錄與引用
 
